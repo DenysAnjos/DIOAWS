@@ -1,0 +1,20 @@
+[
+  {
+    "id": "NF-001",
+    "cliente": "Joao Silva",
+    "valor": 1500.75,
+    "data_emissao": "2026-06-20"
+  },
+  {
+    "id": "NF-002",
+    "cliente": "Maria Oliveira",
+    "valor": 2300.50,
+    "data_emissao": "2026-06-20"
+  },
+  {
+    "id": "NF-003",
+    "cliente": "Carlos Souza",
+    "valor": 875.25,
+    "data_emissao": "2026-06-20"
+  }
+]
